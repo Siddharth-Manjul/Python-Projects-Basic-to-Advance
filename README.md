@@ -1,2 +1,4 @@
 # Python-Projects-Basic-to-Advance
-This repository have python projects from beginner to advanced level. Also, I am adding concepts and syntax as well for complete learning...
+This repository includes Python Project from Basic to Advanced level. 
+Anyone can learn Python using these projects. 
+These projects have all functionalities which are used when you code in Python,
